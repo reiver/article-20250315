@@ -202,6 +202,9 @@ In fact, the Farcaster docs describe Farcaster as such:
 > Farcaster is a [sufficiently decentralized](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) social network built on Ethereum.
 
 Although, Farcaster is thought of as a blockchain-based social-media network — only part of it exists on a blockchain.
-And, in particular, on the Optimism blockchain, where 3 (called "smart contracts") — which is a "layer 2" blockchain built on top of the Ethereum blockchain.
+And, in particular, on the Optimism blockchain — which is a "layer 2" blockchain built on top of the Ethereum blockchain.
+Farcaster has where 3 programs (called "smart contracts") on Optimism.
+
+The rest of Optimism exists on ....
 
 ...
