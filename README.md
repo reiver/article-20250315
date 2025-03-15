@@ -175,26 +175,33 @@ But, the importance of a social-media network is _not_ just about _how many peop
 
 For the blockchain industry — Farcaster is important.
 
-The world of blockchain is divided into 2 large camps — the Bitcoin world and everyone else (who isn't Bitcoin).
+The world of blockchain is divided into 2 large camps — the Bitcoin world and _everyone else_ (who isn't Bitcoin).
 And with the latter camp — _everyone else (who isn't Bitcoin_), Ethereum is the largest player.
 Although the latter camp also includes:
-Arbitrum,
-Avalanche,
-Base,
-Cosmos,
-Optimism,
-Polkadot,
-Polygon,
-Solana,
-Sonic,
+[Arbitrum](https://arbitrum.io/),
+[Avalanche](https://www.avax.network/),
+[Base](https://www.base.org/),
+[Cosmos](https://cosmos.network/),
+[Optimism](https://www.optimism.io/),
+[Polkadot](https://polkadot.com/),
+[Polygon](https://polygon.technology/),
+[Solana](https://solana.com/),
+[Sonic](https://www.soniclabs.com/),
+Zora,
 and many, many others.
 
 So, **who** is on Farcaster‽
-Farcaster is not only a home for many from this _latter camp_ of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
+Farcaster is not only a home for many from this _latter camp_ (of _everyone else_) of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
 
 Although, it should be noted that, at least at the time of writing, Twitter (now renamed 𝕏) is also a home for this _latter camp_.
-And, perhaps ....
+And, Twitter (now renamed 𝕏) not only includes _more_ people from this _latter camp_ (of _everyone else_), but is also _more active_.
 
-...
+When one spends time on Farcaster, one will eventually hear the phrase — **"sufficiently decentralized"**.
+In fact, the Farcaster docs describe Farcaster as such:
+
+> Farcaster is a [sufficiently decentralized](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) social network built on Ethereum.
+
+Although, Farcaster is thought of as a blockchain-based social-media network — only part of it exists on a blockchain.
+And, in particular, on the Optimism blockchain, where 3 (called "smart contracts") — which is a "layer 2" blockchain built on top of the Ethereum blockchain.
 
 ...
