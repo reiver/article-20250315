@@ -13,6 +13,7 @@ The **4th wave** of social-media marks a **new wave** — and includes **Bluesky
 But knowing the _previous_ **3rd wave** will help us understand the _new_ **4th wave**.
 
 The _previous_ **3rd wave** of social-media includes many names that many people (at the time of writing this article) are familiar with, such as:
+Aparat,
 Discord,
 Facebook,
 Instagram,
@@ -26,6 +27,7 @@ Twitter,
 YouTube,
 VK,
 WeChat,
+Weibo,
 WhatsApp,
 and many others.
 
@@ -47,7 +49,7 @@ Posterous,
 MySpace,
 Tumblr,
 Vine,
-and many others
+and many others.
 
 With some exception, the previous **3rd wave** of social-media can mostly be characterized as:
 
@@ -55,30 +57,32 @@ With some exception, the previous **3rd wave** of social-media can mostly be cha
 * **walled-gardens**
 * **data-silos**
 * **corporate owned & controlled**
-* **profit-driven**
+* **profit focused**
 * **engagement maximizing**
 * **vendor lock-in**
 
 ## 4th Wave
 
-In constrast to that, the new **4th wave** of social-media could be characterized as:
+Probably the two most well-known instances from this new social-media revolution are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
+[Pixelfed](https://pixelfed.org/) ....
+The Fediverse ...
+Nostr ...
+Farcaster ...
 
-* ...
-* ...
-* ...
+
+
+In constrast to that, the new **4th wave** of social-media can be characterized as:
+
+* **decentralized**
+* **open platforms**
+* **open protocols**, **open data**, **open APIs**,
+* **open-source**
+* **user focused** or **community focused**,
 * ...
 * ...
 
-**Mastodon**,
-**Bluesky**,
-**Pixelfed**,
-**Fediverse**,
-**Nostr**,
-**Farcaster**,
-and more
-—
-these are some of the names that make up the **_new wave_ of _social-media_**, being called "**decentralized social-media**" (**DeSo**).
-
+But, why these differences‽
+What do those matter‽
 
 ## Computing
 
@@ -124,3 +128,48 @@ hippie era ...
 The mid- 1970s is also the start of the **home computer** era — ... 
 
 ## Computer Networks
+
+## Bluesky
+
+## Mastodon
+
+## Pixelfed
+
+## The Fediverse
+
+There are many different platforms that comprise the Fediverse — including:
+
+* [Akkoma](https://akkoma.social/) — micro-blogging
+* [Bookwyrm](https://bookwyrm.social/) — ...
+* [Castopod](https://castopod.org/) — ...
+* Friendica — ...
+* Ghost — ...
+* [GreatApe](https://greata.pe/) — conversations platform
+* Iceshrimp — ...
+* Lemmy — ...
+* Mangane — ...
+* Mbin — ...
+* Misskey — ...
+* NextCloud — ...
+* NodeBB — ...
+* PeerTube — ...
+* [Pleroma](https://pleroma.social/) — micro-blogging
+* ProToGo — ...
+* Sharkey — ...
+* WordPress — ...
+
+## Nostr
+
+...
+
+**Nostr** ... .
+
+**Nostr** ... Twitter founder and former CEO, Jack Patrick Dorsey.
+
+...
+
+## Farcaster
+
+...
+
+...
