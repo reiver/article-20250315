@@ -171,6 +171,7 @@ There are many different platforms that comprise the Fediverse — including:
 ## Farcaster
 
 [Farcaster](https://www.farcaster.xyz/) is a micro-blogging social-media network, similar to Twitter, Bluesky, and Mastodon.
+Farcaster has also received attention, due to 
 
 **Farcaster** is currently the smallest of the **decentralized social-media** (**DeSo**) networks.
 But, the importance of a social-media network is _not_ just about _how many people_ are on the social-network, but also **who** is on the network.
@@ -209,6 +210,6 @@ Although, Farcaster is thought of as a blockchain-based social-media network —
 And, in particular, (only part of it exists) on the Optimism blockchain — which is a "layer 2" blockchain built on top of the Ethereum blockchain.
 Where Farcaster has 3 programs (called "smart contracts") on Optimism.
 
-The rest of Optimism exists on ....
+The rest of Farcaster exists on ....
 
 ...
