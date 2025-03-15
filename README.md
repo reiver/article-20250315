@@ -8,7 +8,10 @@ Let’s dive into the **4th wave of social-networking**.
 
 ## 3rd Wave
 
-The previous **3rd wave** of social-media includes many names that many people are familiar with, such as:
+The **4th wave** of social-media marks a **new wave**.
+But knowing the _previous_ **3rd wave** will help us understand the _new_ **4th wave**.
+
+The _previous_ **3rd wave** of social-media includes many names that many people (at the time of writing this article) are familiar with, such as:
 Discord,
 Facebook,
 Instagram,
@@ -21,10 +24,11 @@ TikTok,
 Twitter,
 YouTube,
 VK,
-and
-WhatsApp.
+WeChat,
+WhatsApp,
+and many others.
 
-But, also includes many less familiar names, such as:
+But, also includes many less familiar and now defunct names, such as:
 Advogato,
 Brightkite,
 Busker,
@@ -43,11 +47,17 @@ Tumblr,
 Vine,
 and many others
 
-The previous **3rd wave** of social-media could be characterized as ...
+With some exception, the previous **3rd wave** of social-media can mostly be characterized as:
+
+* **centralized**
+* **walled-gardens**
+* **corporate owned & controlled**
+* **profit-driven**
+* **engagement maximizing**
+* **vendor lock-in**
 
 ## 4th Wave
 
-The **4th wave** of social-media marks a **new wave**.
 In constrast to that, the new **4th wave** of social-media could be characterized as ...
 
 **Mastodon**,
