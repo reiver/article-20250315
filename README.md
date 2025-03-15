@@ -1,4 +1,54 @@
-# Decentralized Social-Media
+# The 4th Wave of Social-Media: The Rise of Decentralized Networks
+
+**Social-Media is evolving—again.**
+From MySpace to Facebook, from Twitter to TikTok, each iteration has reshaped how we connect.
+Now, a new revolution is here: **decentralized social-media** (**DeSo**).
+But what exactly is it, and how does it differ from what came before?
+Let’s dive into the 4th wave of social networking.
+
+## 3rd Wave
+
+The previous **3rd wave** of social-media includes many names that many people are familiar with, such as:
+Discord,
+Facebook,
+Instagram,
+KakaoTalk,
+Reddit,
+Slack,
+Snapchat,
+Telegram,
+TikTok,
+Twitter,
+YouTube,
+VK,
+and
+WhatsApp.
+
+But, also includes many less familiar names, such as:
+Advogato,
+Brightkite,
+Busker,
+Delicious,
+Digg,
+Foursqure,
+FriendFeed,
+Friendster,
+Google Plus,
+Kuro5hin,
+Orkut,
+Periscope,
+Posterous,
+MySpace,
+Tumblr,
+Vine,
+and many others
+
+The previous **3rd wave** of social-media could be characterized as ...
+
+## 4th Wave
+
+The **4th wave** of social-media marks a **new wave**.
+In constrast to that, the new **4th wave** of social-media could be characterized as ...
 
 **Mastodon**,
 **Bluesky**,
@@ -8,16 +58,8 @@
 **Farcaster**,
 and more
 —
-these are some of the things that make up the **_new wave_ of _social-media_**, being called "**decentralized social-media**" (**DeSo**).
+these are some of the names that make up the **_new wave_ of _social-media_**, being called "**decentralized social-media**" (**DeSo**).
 
-This **new wave** of social-media marks the **4th wave** for social-media.
-
-Where **3rd wave** of social-media, which included
-Advogato, Delicious, Digg, Facebook, Friendster, Kuro5hin, Reddit, MySpace, TikTok, Twitter, YouTube, and many others
-—
-could be characterized as ...
-
-The new **4th wave** of social media, can be characterized as ....
 
 ## Computing
 
