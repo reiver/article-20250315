@@ -1,6 +1,6 @@
 # The 4th Wave of Social-Media: The Rise of Decentralized Networks
 
-**Social-Media is evolving—again.**
+**Social-Media is evolving — again.**
 From MySpace to Facebook, from Twitter to TikTok, each iteration has reshaped how we connect.
 Now, a new revolution is here: **decentralized social-media** (**DeSo**).
 But what exactly is it, and how does it differ from what came before?
