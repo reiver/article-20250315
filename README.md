@@ -170,14 +170,26 @@ There are many different platforms that comprise the Fediverse — including:
 
 ## Farcaster
 
-[Farcaster](https://www.farcaster.xyz/) is the smallest of the **decentralized social-media** (**DeSo**) networks.
+[Farcaster](https://www.farcaster.xyz/) is currently the smallest of the **decentralized social-media** (**DeSo**) networks.
 But, the importance of a social-media network is _not_ just about _how many people_ are on the social-network, but also **who** is on the network.
 
 For the blockchain industry — Farcaster is important.
 
-The world of blockchain is divided into 2 large camps — Bitcoin and everyone else who isn't Bitcoin.
-And with the latter camp — _everyone who isn't Bitcoin_, Ethereum is the largest player.
-Athough the latter camp also includes: Solana, ....
+The world of blockchain is divided into 2 large camps — the Bitcoin world and everyone else (who isn't Bitcoin).
+And with the latter camp — _everyone else (who isn't Bitcoin_), Ethereum is the largest player.
+Although the latter camp also includes:
+Arbitrum,
+Avalanche,
+Base,
+Cosmos,
+Optimism,
+Polkadot,
+Polygon,
+Solana,
+Sonic,
+and many, many others.
+
+Farcaster is not only a home for many from this latter camp of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
 
 ...
 
