@@ -189,7 +189,11 @@ Solana,
 Sonic,
 and many, many others.
 
-Farcaster is not only a home for many from this latter camp of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
+So, **who** is on Farcaster‽
+Farcaster is not only a home for many from this _latter camp_ of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
+
+Although, it should be noted that, at least at the time of writing, Twitter (now renamed 𝕏) is also a home for this _latter camp_.
+And, perhaps ....
 
 ...
 
