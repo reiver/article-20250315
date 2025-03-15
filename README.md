@@ -82,7 +82,7 @@ In constrast to that, the new **4th wave** of social-media can be characterized 
 * ...
 
 But, why these differences‽
-What do those matter‽
+Why do those matter‽
 
 ## Computing
 
