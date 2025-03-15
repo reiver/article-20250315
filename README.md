@@ -1,5 +1,26 @@
 # Decentralized Social-Media
 
+**Mastodon**,
+**Bluesky**,
+**Pixelfed**,
+**Fediverse**,
+**Nostr**,
+**Farcaster**,
+and more
+—
+these are some of the things that make up the **_new wave_ of _social-media_**, being called "**decentralized social-media**" (**DeSo**).
+
+This **new wave** of social-media marks the **4th wave** for social-media.
+
+Where **3rd wave** of social-media, which included
+Advogato, Delicious, Digg, Facebook, Friendster, Kuro5hin, Reddit, MySpace, TikTok, Twitter, YouTube, and many others
+—
+could be characterized as ...
+
+The new **4th wave** of social media, can be characterized as ....
+
+## Computing
+
 ...
 
 It is easy to _take for granted_ how ubiquitous computing has become — computing is everywhere.
