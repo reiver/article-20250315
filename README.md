@@ -8,7 +8,8 @@ Let’s dive into the **4th wave of social-networking**.
 
 ## 3rd Wave
 
-The **4th wave** of social-media marks a **new wave**.
+The **4th wave** of social-media marks a **new wave** — and includes **Bluesky**, **Farcaster**, the **Fediverse**, **Mastodon**, **Nostr**, and **Pixelfed**, among others.
+
 But knowing the _previous_ **3rd wave** will help us understand the _new_ **4th wave**.
 
 The _previous_ **3rd wave** of social-media includes many names that many people (at the time of writing this article) are familiar with, such as:
@@ -34,6 +35,7 @@ Brightkite,
 Busker,
 Delicious,
 Digg,
+Flickr,
 Foursqure,
 FriendFeed,
 Friendster,
@@ -51,6 +53,7 @@ With some exception, the previous **3rd wave** of social-media can mostly be cha
 
 * **centralized**
 * **walled-gardens**
+* **data-silos**
 * **corporate owned & controlled**
 * **profit-driven**
 * **engagement maximizing**
@@ -58,7 +61,13 @@ With some exception, the previous **3rd wave** of social-media can mostly be cha
 
 ## 4th Wave
 
-In constrast to that, the new **4th wave** of social-media could be characterized as ...
+In constrast to that, the new **4th wave** of social-media could be characterized as:
+
+* ...
+* ...
+* ...
+* ...
+* ...
 
 **Mastodon**,
 **Bluesky**,
