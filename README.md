@@ -109,7 +109,7 @@ In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of
 			<td>data-silos</td>
 			<td>
 				open & permissionless
-				<br />
+				<br /><br />
 				(protocols, access to data, APIs)
 			</td>
 		</tr>
@@ -122,9 +122,9 @@ In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of
 			<th>FOCUS</th>
 			<td>profit focused</td>
 			<td>
-				locally focuses
-				<br />
-				(individual focused, family focused, community focused, team focused, or organization focused)
+				locally focused
+				<br /><br />
+				(individual, family, community, team, or organization)
 			</td>
 		</tr>
 		<tr>
@@ -137,7 +137,7 @@ In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of
 			<td>vendor lock-in</td>
 			<td>
 				self-sovereignty
-				<br />
+				<br /><br />
 				(own your own online identity, own the relationship with your followers, control the abililty to communicate with your followers)
 			</td>
 		</tr>
@@ -149,9 +149,9 @@ Why do those matter‽
 
 Knowing a bit of history can help us understand this.
 
-## Computing
+## Computing & Computer Networks
 
-It is easy to _take for granted_ how ubiquitous computing has become — computing is everywhere.
+It is easy to _take for granted_ how ubiquitous **computing** has become — computing is everywhere.
 Laptops,
 tablets,
 mobile phones,
@@ -162,6 +162,8 @@ printers,
 WiFi routers,
 the cloud,
 _and more_.
+
+And, easy to _take for granted_ how ubiquitous **computer networks** have become. With ...., and the (much of) _the sum of all human knowledge_ available ....
 
 # 1970s
 
