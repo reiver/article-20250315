@@ -168,7 +168,7 @@ And, easy to _take for granted_ how ubiquitous **computer networks** have become
 # 1970s
 
 Nowadays, it is difficult for many to imagine a world where computing was rare or non-existant.
-And yet, that was what the world was like for most of the 20th century and before.
+And yet, for most people, that was what the world was like for most of the 20th century and before.
 
 If we could take a time-machine back to the mid- 1970s — ...
 
