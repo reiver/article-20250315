@@ -77,9 +77,12 @@ In constrast to that, the new **4th wave** of social-media can be characterized 
 * **open platforms**
 * **open protocols**, **open data**, **open APIs**,
 * **open-source**
-* **user focused** or **community focused**,
+* **user focused** or **community focused** or **family focused** or **team focused** or **organization focused**,
 * ...
-* ...
+* **self-sovereign**
+  * **own your own online identity**,
+  * **own the relationship with your followers**,
+  * **abl 
 
 But, why these differences‽
 Why do those matter‽
@@ -171,12 +174,13 @@ There are many different platforms that comprise the Fediverse — including:
 ## Farcaster
 
 [Farcaster](https://www.farcaster.xyz/) is a micro-blogging social-media network, similar to Twitter, Bluesky, and Mastodon.
-Farcaster has also received attention, due to 
+Farcaster has also received attention, due to [raising funds](https://techcrunch.com/2024/05/21/farcaster-a-crypto-based-social-network-raised-150m-with-just-80k-daily-users/).
 
 **Farcaster** is currently the smallest of the **decentralized social-media** (**DeSo**) networks.
 But, the importance of a social-media network is _not_ just about _how many people_ are on the social-network, but also **who** is on the network.
 
-For the blockchain industry — Farcaster is important.
+For the blockchain community — Farcaster is important.
+But, to understand the blockchain community, you need to be aware of the existence of a major split in blockchain community.
 
 The world of blockchain is divided into 2 large camps — the Bitcoin world and _everyone else_ (who isn't Bitcoin).
 In this latter camp — _everyone else (who isn't Bitcoin_) — Ethereum is the largest player.
@@ -194,7 +198,7 @@ Zora,
 and many, many others.
 
 So, **who** is on Farcaster‽
-Farcaster is not only a home for many from this _latter camp_ (of _everyone else_) of the blockchain community, but — it is home for many of the wealthy and influential of this latter camp.
+Farcaster is not only a home for many from this _latter camp_ (of _everyone else_) of the blockchain community, but — it is home for many of _the wealthy and influential_ of this _latter camp_.
 
 Although, it should be noted that, at least at the time of writing, Twitter (now renamed 𝕏) is also a home for this _latter camp_.
 And, Twitter (now renamed 𝕏) not only includes _more_ people from this _latter camp_ (of _everyone else_), but is also _more active_.
@@ -202,6 +206,7 @@ And, Twitter (now renamed 𝕏) not only includes _more_ people from this _latte
 Commerce is also much more common on Farcaster, as compared to other decentralized social-media network.
 
 When one spends time on Farcaster, one will eventually hear the phrase — **"sufficiently decentralized"**.
+
 In fact, the Farcaster docs describe Farcaster as such:
 
 > Farcaster is a [sufficiently decentralized](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) social network built on Ethereum.
@@ -211,5 +216,13 @@ And, in particular, (only part of it exists) on the Optimism blockchain — whic
 Where Farcaster has 3 programs (called "smart contracts") on Optimism.
 
 The rest of Farcaster exists on ....
+
+Most people who use Farcaster either use the web-based [Warpcast](https://warpcast.com/) front-end client app, or use the Android or iOS apps of the same name.
+(Warpcast is created, maintained, and developed by the Farcaster team.)
+
+Other front-end client applications exists for Farcaster,including:
+[Super](https://www.super.sc/),
+[Herocast](https://www.herocast.xyz/),
+and others.
 
 ...
