@@ -67,6 +67,8 @@ Probably the two most well-known instances from this new social-media revolution
 [Pixelfed](https://pixelfed.org/) has also received media attention.
 And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were even recommended by (the famous) John William Oliver on his "Last Week Tonight" TV show in February 2025.
 
+<img src="john-william-oliver.png" style="width:400px" />
+
 A big name in the **4th wave** is: **the Fediverse**.
 Traditionally, **the Fediverse** has included **Mastodon**, **Pixelfed**, and any other software that _"speaks"_ and _"understands"_ the  ActivityPub _et alia_ protocols, but — as time goes on, in practice, many are including **Bluesky** as part of **the Fediverse** (despite it _"speaking"_ and _"understanding"_ the ATProto _et alia_ protocols).
 Meta / Facebook's [Threads](https://www.threads.net/) is (at the time of writing) in the process of joining the Fediverse, and onboarding its hundreds-of-millions of users to this new decentralized world.
