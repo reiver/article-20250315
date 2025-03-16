@@ -70,7 +70,7 @@ And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were even recommende
 <img src="john-william-oliver.png" style="width:400px" />
 
 A big name in the **4th wave** is: **the Fediverse**.
-Traditionally, **the Fediverse** has included **Mastodon**, **Pixelfed**, and any other software that _"speaks"_ and _"understands"_ the  ActivityPub _et alia_ protocols, but — as time goes on, in practice, many are including **Bluesky** as part of **the Fediverse** (despite it _"speaking"_ and _"understanding"_ the ATProto _et alia_ protocols).
+Traditionally, **the Fediverse** has included **Mastodon**, **Pixelfed**, and any other software that _"speaks"_ and _"understands"_ the  ActivityPub _et alia_ protocols, but — as time goes on, in practice, many are including **Bluesky** as part of the **federated universe** that is **the Fediverse** (despite it (Bluesky) _"speaking"_ and _"understanding"_ the ATProto _et alia_ protocols).
 Meta / Facebook's [Threads](https://www.threads.net/) is (at the time of writing) in the process of joining the Fediverse, and onboarding its hundreds-of-millions of users to this new decentralized world.
 
 Nostr is another significant decentralized social-media (DeSo) network.
@@ -197,9 +197,40 @@ Nowadays, radios tend to only be common inside of automobiles, but — ...
 
 ## Home Computer
 
-The mid- 1970s is also the start of the **home computer** era — a time when it became more practical for a family to own.
+The mid- 1970s is also the start of the **home computer** era — a time when it became more practical for a family to own a computer.
+This era continued into the 1980s.
 
 (This is an era of computing _before_ the **personal computer** era that ....)
+
+The popular computers during this **home computer** era (in alphabetical order) included
+—
+the **Acorn Electron**,
+the **Amiga 1000**,
+the **Apple II**,
+the **Atari ST**,
+the **BBC Micro**,
+the **Coleco Adam**,
+the **Commodore 128**,
+the **Commodore 64**,
+the **Commodore PET**,
+the **Mattel Aquarius**,
+the **Radio Shack TRS-80**,
+the **Sinclair ZX Spectrum**,
+the **Sinclair ZX80**,
+the **VIC-20**,
+and many others.
+
+(One needs to be careful not to project the present ... onto the past.
+And although Apple has dominance in certain markets today — **Commodore** and **Sinclair** were more important back then.)
+
+Note that, unlike the later _personal computer_ era, software for a particular _home computer_ tended to **not** work with other _home computers_.
+Especially if the _other home computer_ was created by another manufacturer.
+
+Although, what often created some compatibility between different incompatible _home computers_ was the BASIC programming-language.
+
+What I remember of this time is — although it was _more practical_ for a family to own a computer, it was still pretty rare.
+For example, in the early 1980s, I recall only one family in my neighborhood having Commodore 64 — the most popular ...
+My elementary school also had ..., which where I first learned _computer programming_ via the Logo programming-language (and _turtle graphics).
 
 ...
 
