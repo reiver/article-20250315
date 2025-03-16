@@ -77,8 +77,11 @@ Nostr is another significant decentralized social-media (DeSo) network.
 It (Nostr) is also the new home of Twitter founder and former CEO [Jack Patrick Dorsey](https://primal.net/jack).
 He (Jack) has also been a vocal supporter of Nostr, and has providing funding to help various developers and organizations building applications and infrastruction for Nostr.
 
-Farcaster is another significant but small decentralized social-media (DeSo) network.
+[Farcaster](https://www.farcaster.xyz/) is another significant but small decentralized social-media (DeSo) network.
+In fact, **Farcaster** currently (at the time of writing) the smallest of the (significant) decentralized social-media (DeSe) networks.
 ...
+
+**Later in this article we will go over each of these more in depth.**
 
 In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of social-media can largely be characterized as:
 
@@ -144,9 +147,9 @@ In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of
 But, why these differences‽
 Why do those matter‽
 
-## Computing
+Knowing a bit of history can help us understand this.
 
-...
+## Computing
 
 It is easy to _take for granted_ how ubiquitous computing has become — computing is everywhere.
 Laptops,
