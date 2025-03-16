@@ -237,8 +237,10 @@ My elementary school also had ..., which where I first learned _computer program
 ## Computer Networks
 
 Back then, there were those who wondered what regular people would do with computers.
-After all, prior to this, computers tended to be used for:
-accounting, inventory management, payroll,
+Sure there were video games, but —
+after all, prior to this, computers tended to be used for:
+accounting, databases, inventory management, payroll, simulations, etc.
+I.e., things that were more .... use-cases that were more common for business, researchers, and military.
 
 As it turns out, some regular people used computers to do what they did away from the computer — they used them to be **social** with _other people_.
 
@@ -261,7 +263,7 @@ Today, the computer network most people know is: **the Internet**.
 And, there is a history that is told about _computer networks_ that says, _what came before the Internet was ARPANET_.
 
 That story is at best misleading, and perhaps a bit of a lie.
-At least for the story of regular people using the computer networks.
+At least for the story of _regular people_ using the computer networks.
 
 For regular people the computer networks that came before **the Internet** includes (in alphabetical order): AOL, BBS, CompuServe, FidoNet, GEnie, MCI Mail, Prodigy, Usenet, and others.
 
