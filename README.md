@@ -73,24 +73,64 @@ Farcaster ...
 
 In constrast to that, the new **4th wave** of social-media can be characterized as:
 
-* **decentralized**
-* **open platforms**
-* **open** & **permissionless**:
-  * **protocols**
-  * **access to data**
-  * **APIs**
-* **open-source** & **decentralized ownership**
-* **locally focused**:
-  * **user focused** or
-  * **family focused** or
-  * **community focused** or
-  * **team focused** or
-  * **organization focused**,
-* ...
-* **self-sovereignty**
-  * **own your own online identity**
-  * **own the relationship with your followers**
-  * **control the abililty to communicate with your followers**
+<table>
+	<thead>
+		<tr>
+			<th>&nbsp;</th>
+			<th width="30%">3rd Wave</th>
+			<th width="50%">4th Wave</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th>CONTROL</th>
+			<td>centralized</td>
+			<td>decentralized & localized</td>
+		</tr>
+		<tr>
+			<th>ENVIRONMENT</th>
+			<td>walled-gardens</td>
+			<td>open platforms</td>
+		</tr>
+		<tr>
+			<th>ACCESS</th>
+			<td>data-silos</td>
+			<td>
+				open & permissionless
+				<br />
+				(protocols, access to data, APIs)
+			</td>
+		</tr>
+		<tr>
+			<th>OWNERSHIP</th>
+			<td>corporate owned & controlled</td>
+			<td>open-source & decentralized ownership</td>
+		</tr>
+		<tr>
+			<th>FOCUS</th>
+			<td>profit focused</td>
+			<td>
+				locally focuses
+				<br />
+				(individual focused, family focused, community focused, team focused, or organization focused)
+			</td>
+		</tr>
+		<tr>
+			<th>INCENTIVIZATION</th>
+			<td>engagement maximizing</td>
+			<td>...</td>
+		</tr>
+		<tr>
+			<th>ESCAPABILITY</th>
+			<td>vendor lock-in</td>
+			<td>
+				self-sovereignty
+				<br />
+				(own your own online identity, own the relationship with your followers, control the abililty to communicate with your followers)
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 But, why these differences‽
 Why do those matter‽
