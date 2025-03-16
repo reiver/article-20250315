@@ -12,7 +12,7 @@ The **4th wave** of social-media marks a **new wave** — and includes **Bluesky
 
 But knowing the _previous_ **3rd wave** will help us understand the _new_ **4th wave**.
 
-The _previous_ **3rd wave** of social-media includes many names that many people (at the time of writing this article) are familiar with, such as:
+The _previous_ **3rd wave** of social-media includes many names that (at the time of writing this article) many people around the world are familiar with, such as:
 Aparat,
 Discord,
 Facebook,
@@ -63,12 +63,17 @@ With some exception, the previous **3rd wave** of social-media can mostly be cha
 
 ## 4th Wave
 
-Probably the two most well-known instances from this new social-media revolution are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
+Probably the two most well-known instances from this new social-media revolution — this **4th wave** of social-media — are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
 [Pixelfed](https://pixelfed.org/) has also received media attention.
-And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were recommended by (the famous) John William Oliver on his "Last Week Tonight" TV show in February 2025.
+And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were even recommended by (the famous) John William Oliver on his "Last Week Tonight" TV show in February 2025.
+
+A big name in the **4th wave** is: **the Fediverse**.
 Traditionally, **the Fediverse** has included **Mastodon**, **Pixelfed**, and any other software that _"speaks"_ and _"understands"_ the  ActivityPub _et alia_ protocols, but — as time goes on, in practice, it (the Fediverse) is also including **Bluesky**.
+
 Nostr is another significant decentralized social-media (DeSo) network.
 It (Nostr) is also the new home of Twitter founder and former CEO [Jack Patrick Dorsey](https://primal.net/jack).
+He (Jack) has also been a vocal supporter of Nostr, and has providing funding to help various developers and organizations building applications and infrastruction for Nostr.
+
 Farcaster ...
 
 
