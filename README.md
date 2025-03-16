@@ -51,7 +51,7 @@ Tumblr,
 Vine,
 and many others.
 
-With some exception, the previous **3rd wave** of social-media can mostly be characterized as:
+With some exception, the previous **3rd wave** of social-media can largely be characterized as:
 
 * **centralized**
 * **walled-gardens**
@@ -63,22 +63,22 @@ With some exception, the previous **3rd wave** of social-media can mostly be cha
 
 ## 4th Wave
 
-Probably the two most well-known instances from this new social-media revolution — this **4th wave** of social-media — are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
+Probably the two most well-known instances from this new social-media revolution — from this **4th wave** of social-media — are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
 [Pixelfed](https://pixelfed.org/) has also received media attention.
 And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were even recommended by (the famous) John William Oliver on his "Last Week Tonight" TV show in February 2025.
 
 A big name in the **4th wave** is: **the Fediverse**.
 Traditionally, **the Fediverse** has included **Mastodon**, **Pixelfed**, and any other software that _"speaks"_ and _"understands"_ the  ActivityPub _et alia_ protocols, but — as time goes on, in practice, it (the Fediverse) is also including **Bluesky**.
+Meta / Facebook's [Threads](https://www.threads.net/) is (at the time of writing) in the process of joining the Fediverse, and onboarding its hundreds-of-millions of users to this new decentralized world.
 
 Nostr is another significant decentralized social-media (DeSo) network.
 It (Nostr) is also the new home of Twitter founder and former CEO [Jack Patrick Dorsey](https://primal.net/jack).
 He (Jack) has also been a vocal supporter of Nostr, and has providing funding to help various developers and organizations building applications and infrastruction for Nostr.
 
-Farcaster ...
+Farcaster is another significant but small decentralized social-media (DeSo) network.
+...
 
-
-
-In constrast to the **3rd wave**, the new **4th wave** of social-media can be characterized as:
+In constrast to the **3rd wave**, with some exceptions, this new **4th wave** of social-media can largely be characterized as:
 
 <table>
 	<thead>
