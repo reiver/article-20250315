@@ -75,14 +75,22 @@ In constrast to that, the new **4th wave** of social-media can be characterized 
 
 * **decentralized**
 * **open platforms**
-* **open protocols**, **open data**, **open APIs**,
-* **open-source**
-* **user focused** or **community focused** or **family focused** or **team focused** or **organization focused**,
+* **open** & **permissionless**:
+  * **protocols**
+  * **access to data**
+  * **APIs**
+* **open-source** & **decentralized ownership**
+* **locally focused**:
+  * **user focused** or
+  * **family focused** or
+  * **community focused** or
+  * **team focused** or
+  * **organization focused**,
 * ...
-* **self-sovereign**
-  * **own your own online identity**,
-  * **own the relationship with your followers**,
-  * **abl 
+* **self-sovereignty**
+  * **own your own online identity**
+  * **own the relationship with your followers**
+  * **control the abililty to communicate with your followers**
 
 But, why these differences‽
 Why do those matter‽
