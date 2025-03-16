@@ -63,8 +63,8 @@ With some exception, the previous **3rd wave** of social-media can largely be ch
 
 ## 4th Wave
 
-Probably the two most well-known instances from this new social-media revolution — from this **4th wave** of social-media — are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive media coverage.
-[Pixelfed](https://pixelfed.org/) has also received media attention.
+Probably the two most well-known instances from this new social-media revolution — from this **4th wave** of social-media — are [Mastodon](https://joinmastodon.org/) & [Bluesky](https://bsky.app/), as they have been received extensive newspaper coverage.
+[Pixelfed](https://pixelfed.org/) has also received newspaper attention.
 And, all 3 of these — Bluesky, Pixelfed, and Mastodon — were even recommended by (the famous) John William Oliver on his "Last Week Tonight" TV show in February 2025.
 
 <img src="john-william-oliver.png" style="width:400px" />
@@ -172,7 +172,7 @@ If we could take a time-machine back to the mid- 1970s — ...
 
 In fact, I was there, in the 1970s — a young child growing up in Metro Vancouver.
 Metro Vancouver, named after the city of _Vancouver_, is a collection of cities on the west-coast of Canada.
-Metro Vancouver is also close enough to the United States, and in particular Seattle, that they ....
+Metro Vancouver is also close enough to the United States, and in particular Seattle, that they culturally affected each other.
 
 As a kid in the 1970s, I remember watching live-action kids' TV shows such as: **Sesame Street**, **Boomerang** with Marni Nixon, and **Mr. Dressup**.
 I remember watching cartoons such as: **Super Friends**, **The Scooby-Doo Show**, ....
@@ -186,11 +186,41 @@ I also remember that, although bell-bottom jeans were fashionable, a lot (probab
 
 hippie era ...
 
+I also remember that electronics were rare.
+A family would probably would have a television (TV) — that by today's standards would be considered _small_ and _bulky_.
+I recall that one of our first TVs we got was a black-and-white TV.
+It was only later that we got a color TV.
+Families would also often have a radio.
+Nowadays, radios tend to only be common inside of automobiles, but — ...
+
 ## Home Computer
 
-The mid- 1970s is also the start of the **home computer** era — ... 
+The mid- 1970s is also the start of the **home computer** era — a time when it became more practical for a family to own.
+
+(This is an era of computing _before_ the **personal computer** era that ....)
+
+...
 
 ## Computer Networks
+
+Back then, there were those who wondered what regular people would do with computers.
+After all, prior to this, computers tended to be used for:
+accounting, inventory management, payroll,
+
+As it turns out, some regular people used computers to do what they did away from the computer — they used them to be **social** with _other people_.
+
+And thus, computers and computer networks became **social-media**.
+
+## Social Media
+
+medium (noun): a means, channel, go-between, etc, through which communication, commerce, etc, happens.
+
+The "media" is social-media is the plural form of "medium".
+
+
+social (adjective): of or relating to a society.
+
+society (noun): a group of people, where members potentially come and go, plus the relationships, history, culture, etc, within them.
 
 ## Bluesky
 
