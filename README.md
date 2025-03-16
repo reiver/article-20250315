@@ -230,7 +230,7 @@ Although, what often created some compatibility between different incompatible _
 
 What I remember of this time is — although it was _more practical_ for a family to own a computer, it was still pretty rare.
 For example, in the early 1980s, I recall only one family in my neighborhood having Commodore 64 — the most popular ...
-My elementary school also had ..., which where I first learned _computer programming_ via the Logo programming-language (and _turtle graphics).
+My elementary school also had ..., which where I first learned _computer programming_ via the Logo programming-language (and _turtle graphics_).
 
 ...
 
