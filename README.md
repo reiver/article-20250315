@@ -187,12 +187,12 @@ Farcaster has also received attention, due to [raising funds](https://techcrunch
 **Farcaster** is currently the smallest of the **decentralized social-media** (**DeSo**) networks.
 But, the importance of a social-media network is _not_ just about _how many people_ are on the social-network, but also **who** is on the network.
 
-For the blockchain community — Farcaster is important.
+To understand that, though, you need to understand how the _blockchain community_ is structured.
 But, to understand the blockchain community, you need to be aware of the existence of a major split in blockchain community.
 
 The world of blockchain is divided into 2 large camps — the Bitcoin world and _everyone else_ (who isn't Bitcoin).
 In this latter camp — _everyone else (who isn't Bitcoin_) — Ethereum is the largest player.
-Although this _latter camp_ also includes:
+This _latter camp_ also includes things that are similar to Ethereum, such as:
 [Arbitrum](https://arbitrum.io/),
 [Avalanche](https://www.avax.network/),
 [Base](https://www.base.org/),
@@ -200,10 +200,13 @@ Although this _latter camp_ also includes:
 [Optimism](https://www.optimism.io/),
 [Polkadot](https://polkadot.com/),
 [Polygon](https://polygon.technology/),
-[Solana](https://solana.com/),
 [Sonic](https://www.soniclabs.com/),
 Zora,
 and many, many others.
+But, this _latter camp_ also includes things that are dissimilar to Ethereum, such as:
+[Solana](https://solana.com/),
+[Sui](https://sui.io/),
+and others.
 
 So, **who** is on Farcaster‽
 Farcaster is not only a home for many from this _latter camp_ (of _everyone else_) of the blockchain community, but — it is home for many of _the wealthy and influential_ of this _latter camp_.
