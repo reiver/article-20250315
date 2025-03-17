@@ -8,7 +8,7 @@ Let’s dive into the **4th wave of social-networking**.
 
 ## 3rd Wave
 
-The **4th wave** of social-media marks a **new wave** — and includes **Bluesky**, **Farcaster**, the **Fediverse**, **Mastodon**, **Nostr**, and **Pixelfed**, among others.
+The **4th wave** of social-media marks a **new wave** — and _new wave_ currently consisting of **Bluesky**, **Farcaster**, the **Fediverse**, **Mastodon**, **Nostr**, and **Pixelfed**, among others.
 
 But knowing the _previous_ **3rd wave** will help us understand the _new_ **4th wave**.
 
